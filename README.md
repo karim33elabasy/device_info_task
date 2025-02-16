@@ -1,16 +1,14 @@
 # device_info_task
 
-A new Flutter project.
+Know your device model and OS version with single click .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Just launch the main function in main.dart file on your phone or emulator.
 
-A few resources to get you started if this is your first Flutter project:
+## Software Versions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter 3.27.3 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision c519ee916e (4 weeks ago) • 2025-01-21 10:32:23 -0800
+Engine • revision e672b006cb
+Tools • Dart 3.6.1 • DevTools 2.40.2
